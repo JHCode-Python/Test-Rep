@@ -1,0 +1,1 @@
+print('Connor is hella late, goddamn boy')
